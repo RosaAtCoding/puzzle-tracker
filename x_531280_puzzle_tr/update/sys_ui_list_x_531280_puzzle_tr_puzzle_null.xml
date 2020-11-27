@@ -3,77 +3,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4a5b13682f302010e98c55272799b605</list_id>
+            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90ea63a42f702010e98c55272799b65f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-27 15:23:09</sys_created_on>
-            <sys_id>c25b13682f302010e98c55272799b607</sys_id>
+            <sys_created_on>2020-11-27 16:31:00</sys_created_on>
+            <sys_id>90ea63a42f702010e98c55272799b660</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-27 15:23:09</sys_updated_on>
+            <sys_updated_on>2020-11-27 16:31:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4a5b13682f302010e98c55272799b605</list_id>
+            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90ea63a42f702010e98c55272799b65f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-27 15:23:09</sys_created_on>
-            <sys_id>ca5b13682f302010e98c55272799b607</sys_id>
+            <sys_created_on>2020-11-27 16:31:00</sys_created_on>
+            <sys_id>58ea63a42f702010e98c55272799b660</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-27 15:23:09</sys_updated_on>
+            <sys_updated_on>2020-11-27 16:31:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>length</element>
-            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4a5b13682f302010e98c55272799b605</list_id>
+            <element>owner</element>
+            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90ea63a42f702010e98c55272799b65f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-27 15:23:09</sys_created_on>
-            <sys_id>4e5b13682f302010e98c55272799b607</sys_id>
+            <sys_created_on>2020-11-27 16:31:00</sys_created_on>
+            <sys_id>d8ea63a42f702010e98c55272799b660</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-27 15:23:09</sys_updated_on>
+            <sys_updated_on>2020-11-27 16:31:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>owner</element>
-            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4a5b13682f302010e98c55272799b605</list_id>
+            <element>number_of_pieces</element>
+            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90ea63a42f702010e98c55272799b65f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-27 15:23:09</sys_created_on>
-            <sys_id>ce5b13682f302010e98c55272799b607</sys_id>
+            <sys_created_on>2020-11-27 16:31:00</sys_created_on>
+            <sys_id>5cea63a42f702010e98c55272799b660</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-27 15:23:09</sys_updated_on>
+            <sys_updated_on>2020-11-27 16:31:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>width</element>
-            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4a5b13682f302010e98c55272799b605</list_id>
+            <element>missing_pieces</element>
+            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90ea63a42f702010e98c55272799b65f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-27 15:23:09</sys_created_on>
-            <sys_id>425b13682f302010e98c55272799b608</sys_id>
+            <sys_created_on>2020-11-27 16:31:00</sys_created_on>
+            <sys_id>dcea63a42f702010e98c55272799b660</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-27 15:23:09</sys_updated_on>
+            <sys_updated_on>2020-11-27 16:31:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>length</element>
+            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90ea63a42f702010e98c55272799b65f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-27 16:31:00</sys_created_on>
+            <sys_id>50ea63a42f702010e98c55272799b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-27 16:31:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>width</element>
+            <list_id display_value="x_531280_puzzle_tr_puzzle" element="NULL" name="x_531280_puzzle_tr_puzzle" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90ea63a42f702010e98c55272799b65f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-27 16:31:00</sys_created_on>
+            <sys_id>d0ea63a42f702010e98c55272799b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-27 16:31:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -87,10 +117,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-27 15:23:08</sys_created_on>
+            <sys_created_on>2020-11-27 16:31:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4a5b13682f302010e98c55272799b605</sys_id>
+            <sys_id>90ea63a42f702010e98c55272799b65f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_531280_puzzle_tr_puzzle</sys_name>
             <sys_package display_value="Puzzle Tracker" source="x_531280_puzzle_tr">e4d91f642f302010e98c55272799b6a2</sys_package>
@@ -98,7 +128,7 @@
             <sys_scope display_value="Puzzle Tracker">e4d91f642f302010e98c55272799b6a2</sys_scope>
             <sys_update_name>sys_ui_list_x_531280_puzzle_tr_puzzle_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-27 15:23:08</sys_updated_on>
+            <sys_updated_on>2020-11-27 16:31:00</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
