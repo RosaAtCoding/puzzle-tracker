@@ -14,6 +14,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-11-27 16:30:07</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>rosa.montes</sys_created_by>
+            <sys_created_on>2020-11-27 17:01:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90f1ffa82f702010e98c55272799b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_531280_puzzle_tr_puzzle" name="x_531280_puzzle_tr_puzzle" sys_domain="global" view="Default view">8baaaf642f702010e98c55272799b6bb</sys_ui_form>
+            <sys_ui_section caption="Characteristics" display_value="Characteristics" name="x_531280_puzzle_tr_puzzle" sys_domain="global" view="Default view">14f1ffa82f702010e98c55272799b603</sys_ui_section>
+            <sys_updated_by>rosa.montes</sys_updated_by>
+            <sys_updated_on>2020-11-27 17:01:52</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_531280_puzzle_tr_puzzle</name>
             <roles/>
