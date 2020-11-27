@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="name" label="Name" language="en" table="x_531280_puzzle_tr_puzzle">
+    <sys_documentation element="units" label="Units" language="en" table="x_531280_puzzle_tr_puzzle">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>units</element>
             <help/>
             <hint/>
-            <label>Name</label>
+            <label>Units</label>
             <language>en</language>
             <name>x_531280_puzzle_tr_puzzle</name>
-            <plural>Names</plural>
+            <plural>Units</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-27 15:19:19</sys_created_on>
-            <sys_id>f17facb82f342010e98c55272799b6a2</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-11-27 21:15:24</sys_created_on>
+            <sys_id>8efbacf42f342010e98c55272799b6a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Name</sys_name>
+            <sys_name>Units</sys_name>
             <sys_package display_value="Puzzle Tracker" source="x_531280_puzzle_tr">e4d91f642f302010e98c55272799b6a2</sys_package>
             <sys_policy/>
             <sys_scope display_value="Puzzle Tracker">e4d91f642f302010e98c55272799b6a2</sys_scope>
-            <sys_update_name>sys_documentation_x_531280_puzzle_tr_puzzle_name_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-27 15:19:19</sys_updated_on>
+            <sys_update_name>sys_documentation_x_531280_puzzle_tr_puzzle_units_en</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-11-27 21:15:24</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="units" table="x_531280_puzzle_tr_puzzle" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>units</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inches</label>
+            <language>en</language>
+            <name>x_531280_puzzle_tr_puzzle</name>
+            <sequence>0</sequence>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-11-27 21:15:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cefbacf42f342010e98c55272799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-11-27 21:15:24</sys_updated_on>
+            <value>in</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>units</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Centimeters</label>
+            <language>en</language>
+            <name>x_531280_puzzle_tr_puzzle</name>
+            <sequence>1</sequence>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-11-27 21:15:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06fbacf42f342010e98c55272799b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-11-27 21:15:24</sys_updated_on>
+            <value>cm</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>units</element>
+            <name>x_531280_puzzle_tr_puzzle</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-11-27 21:15:24</sys_created_on>
+            <sys_id>4afbacf42f342010e98c55272799b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>units</sys_name>
+            <sys_package display_value="Puzzle Tracker" source="x_531280_puzzle_tr">e4d91f642f302010e98c55272799b6a2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Puzzle Tracker">e4d91f642f302010e98c55272799b6a2</sys_scope>
+            <sys_update_name>sys_choice_x_531280_puzzle_tr_puzzle_units</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-11-27 21:15:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Puzzle Tracker">e4d91f642f302010e98c55272799b6a2</application>
+        <file_path/>
+        <instance_id>67806d89dbcb14dce03ad7c8f49619e9</instance_id>
+        <instance_name>tac03452</instance_name>
+        <name>sys_choice_x_531280_puzzle_tr_puzzle_units</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="units" table="x_531280_puzzle_tr_puzzle" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>units</element><hint/><inactive>false</inactive><label>Inches</label><language>en</language><name>x_531280_puzzle_tr_puzzle</name><sequence>0</sequence><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2020-11-27 21:15:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cefbacf42f342010e98c55272799b6d9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2020-11-27 21:15:24</sys_updated_on><value>in</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>units</element><hint/><inactive>false</inactive><label>Centimeters</label><language>en</language><name>x_531280_puzzle_tr_puzzle</name><sequence>1</sequence><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2020-11-27 21:15:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>06fbacf42f342010e98c55272799b6db</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2020-11-27 21:15:24</sys_updated_on><value>cm</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>units</element><name>x_531280_puzzle_tr_puzzle</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2020-11-27 21:15:24</sys_created_on><sys_id>4afbacf42f342010e98c55272799b6da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>units</sys_name><sys_package display_value="Puzzle Tracker" source="x_531280_puzzle_tr">e4d91f642f302010e98c55272799b6a2</sys_package><sys_policy/><sys_scope display_value="Puzzle Tracker">e4d91f642f302010e98c55272799b6a2</sys_scope><sys_update_name>sys_choice_x_531280_puzzle_tr_puzzle_units</sys_update_name><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2020-11-27 21:15:24</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>991975880</payload_hash>
+        <record_name>Puzzle.Units</record_name>
+        <reverted_from/>
+        <source>f88f20f82f342010e98c55272799b689</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-27 21:30:55</sys_created_on>
+        <sys_id>ad8f60f82f342010e98c55272799b673</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1760b9dbe180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-27 21:30:55</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>42fbacf430342010d256014a4ff779dd</update_guid>
+        <update_guid_history>42fbacf430342010d256014a4ff779dd:991975880,c47f2cb86d342010efd2d31688e88af3:-1974297992,887f2cb87d342010cfae8a704c65faf0:761254065,42fbacf430342010d256014a4ff779dd:991975880,3f0b2cb49f342010d45935785e769312:-1974297992,7f0b2cb4fe34201015ffb39d54003e0f:761254065,8b7928744b3420104b801b3907140bdf:991975880</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2020-11-27 21:37:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>6fb0b03c2f342010e98c55272799b654</sys_id>
+        <sys_metadata>6fb0b03c2f342010e98c55272799b654</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>units</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="x_531280_puzzle_tr">e4d91f642f302010e98c55272799b6a2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">e4d91f642f302010e98c55272799b6a2</sys_scope>
+        <sys_scope_delete display_value="">40e32c69c50a42c09ce149eec9534400</sys_scope_delete>
+        <sys_update_name>sys_choice_x_531280_puzzle_tr_puzzle_units</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_531280_puzzle_tr_puzzle_units">ad8f60f82f342010e98c55272799b673</sys_update_version>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2020-11-27 21:37:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
